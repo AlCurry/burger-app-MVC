@@ -8,6 +8,7 @@
 
     Iniital inserts, or seeds, for our burgers table.
 */
+USE burgers_db;
 
 INSERT INTO burgers (burger_name, devoured) VALUES ('JS Burger', false);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Royale w/Cheese', false);
