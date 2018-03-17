@@ -14,5 +14,5 @@
   * Npm (Node Package Manager) express, express-handlebars, body-parser and mysql must be installed
   * Mysql database should have the schema and seeds file loaded.
   * node server.js
-  * in your browser, localhost:<portid> or other specified domain name
+  * in your browser, localhost:portid or other specified domain name
 
