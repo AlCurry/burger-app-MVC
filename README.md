@@ -7,28 +7,6 @@ records in the database (representing 6 burgers) and an "EAT" button next to eac
 the database will be updated.  Or the user can click the EAT button (which updates the flag in the database table)
 and the burger will move to the right side of the screen and change color, indicating it has been eaten.
 
-project/repo file structure:
-├── config
-|  ├── connection.js
-|  └── orm.js
-├── controllers
-|  └── burgersController.js
-├── db
-|  ├── schema.sql
-|  └── seeds.sql
-├── models
-|  └── burger.js
-├── public
-|  └── assets
-|       └── css - style.css
-|       └── js - burger_client.js
-└── views
-|   ├── index.handlebars
-|   └── layouts
-├── package.json
-├── package-lock.json
-└── server.js
-
 To run :
 Npm (Node Package Manager) express, express-handlebars, body-parser and mysql must be installed
 Mysql database should have the schema and seeds file loaded.
