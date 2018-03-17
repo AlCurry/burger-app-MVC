@@ -11,8 +11,8 @@
   and the burger will move to the right side of the screen and change color, indicating it has been eaten.
 
   To run :
-  Npm (Node Package Manager) express, express-handlebars, body-parser and mysql must be installed
-  Mysql database should have the schema and seeds file loaded.
-  node server.js
-  in your browser, localhost:<portid> or other specified domain name
+  * Npm (Node Package Manager) express, express-handlebars, body-parser and mysql must be installed
+  * Mysql database should have the schema and seeds file loaded.
+  * node server.js
+  * in your browser, localhost:<portid> or other specified domain name
 
